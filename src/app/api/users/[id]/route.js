@@ -1,3 +1,4 @@
+//In .env: DATABASE_URL="postgresql://postgres:123@localhost:5432/mydb"
 import { PrismaClient } from '@prisma/client';
 const prisma = new PrismaClient();
 
