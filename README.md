@@ -17,6 +17,7 @@ git clone https://github.com/07asn/Next-CRUD.git
 cd next-crud
 npm i
 npm run dev
+```
 
 ---
 
