@@ -9,6 +9,17 @@
 
 ---
 
+## 🔧 Setup Instructions
+
+1. **Clone the repo**
+```bash
+git clone https://github.com/07asn/Next-CRUD.git
+cd next-crud
+npm i
+npm run dev
+
+---
+
 ## 🖼️ Task Preview  
 Below are some screenshots from the task:
 
@@ -21,13 +32,4 @@ Below are some screenshots from the task:
 ### 📸 Preview 3  
 ![Preview 3](https://drive.google.com/uc?export=view&id=1F3j5U7Y4jgFsUYB-hRSQ1coSprf3je3_)
 
----
 
-## 🔧 Setup Instructions
-
-1. **Clone the repo**
-```bash
-git clone https://github.com/07asn/Next-CRUD.git
-cd next-crud
-npm i
-npm run dev
